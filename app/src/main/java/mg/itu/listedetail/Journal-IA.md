@@ -1,0 +1,2 @@
+"Au niveau de la condition : ‘si produit != null’, L’IA affiche que si l'ID produit est invalide, aucun écran ne sera affiché", cohérent car Car il faut fien clarifier les conditions d’usages
+"Utiliser une classe/sealed class pour représenter les routes afin d'éviter les fautes de frappe.", non cohérent car Non pertinent, car composable est plus large  
